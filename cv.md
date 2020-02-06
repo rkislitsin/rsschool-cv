@@ -93,3 +93,10 @@ B.A. in Communication Networks and Switching Systems at [ISTU](http://www.istu.r
 
 B.A. in Information Security at [UDSU](http://www.udsu.ru/) (Izhevsk RU, 2011 - 2014)
 
+## English
+
+- Understanding:
+    - Listening: B1
+    - Reading: B2
+- Speaking: A2
+- Writing: B1
