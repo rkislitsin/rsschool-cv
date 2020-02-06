@@ -8,3 +8,18 @@
 - GitHub: [rkislitsin](https://github.com/rkislitsin)
 
 
+## Summary of Qualifications
+
+Novice backend-developer with technical education. Confident knowledge of HTML, CSS/SCSS, Ruby, PostgreSQL
+
+## Skills
+
+**Programming languages and technologies**: Ruby, HTML, CSS/SCSS/LESS
+
+**Programming practices**: Agile, Scrum, Canban, Code review
+
+**Frameworks and Libraries** Ruby on Rails, Sinatra, bootstrap, jquery
+
+**Databases** PostgreSQL, MySQL, Redis
+
+**Tools** GIT, RubyMine, VS Code, Heroku, Trello, Nginx, Passenger, Linux
