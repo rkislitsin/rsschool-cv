@@ -61,3 +61,28 @@ module Fondy
   end
 end
 ```
+
+## Experience
+
+### Ruby on Rails intern [Hexelsoft](http://www.hexelsoft.ru) (2017/12 - 2018/6, Izhevsk, RU)
+
+- Worked with Ruby, jquery, REST, PostgreSQL, AWS, NodeJS.
+- Defined the vision for the platform architecture and standards, and ensured its implementation.
+- Validated assumptions with A/B testing.
+- Progressively rolled out features using feature flags.
+
+#### Projects
+
+- [stroitaxi.su](http://stroitaxi.su)
+- [torrent.cafe](https://torrent.cafe)
+- [pokadastru.ru](http://pokadastru.ru)
+
+### Junior Ruby developer [BITMaster](http://bitmaster.ru/) (2018/12 - 2019/05, Izhevsk, RU)
+
+- Assisted organizations of all sizes, from startups to enterprise agencies, in developing iOS applications.
+- Focused on Test Driven Development, software architectures that allow testing, and the setup of automated infrastructures for Continuous Integration and Deployment.
+
+### Ruby developer at LocalityLabs [locallabs.com](https://locallabs.com) (2019/06 - 2020, Chicago US)
+
+### Freelance [upwork](https://upwork.com), [FL.ru](https://fl.ru) (2018 - 2020)
+
