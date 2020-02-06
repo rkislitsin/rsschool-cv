@@ -86,3 +86,10 @@ end
 
 ### Freelance [upwork](https://upwork.com), [FL.ru](https://fl.ru) (2018 - 2020)
 
+
+## Education
+
+B.A. in Communication Networks and Switching Systems at [ISTU](http://www.istu.ru/) (Izhevsk RU, 2006 - 2008)
+
+B.A. in Information Security at [UDSU](http://www.udsu.ru/) (Izhevsk RU, 2011 - 2014)
+
